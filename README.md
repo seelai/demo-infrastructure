@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 This repository contain terraform scripts to create resources on Oracle Cloud Infrastructure (OCI).
 
-#Pre-requisites
+# Pre-requisites
 * OCI Account
 * Install Terraform
 * Setup SSH keypair to connect with VM instances
